@@ -1,7 +1,7 @@
 <h1 align="center">
-At <strong>Voss Alan</strong>, we choose to live creatively... :rocket: 
+@<strong>VossAlan</strong>, we choose to live creatively... :rocket: 
 </h1>
-<hr/>
+
 <p align="center">
   <img align="center" width="500" src="https://user-images.githubusercontent.com/81576376/197360745-e867d30a-f2bb-41cc-9c03-34906121f5bb.jpeg">
   
