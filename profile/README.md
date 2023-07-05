@@ -1,9 +1,21 @@
+![VossAlan_Final_V14-07](https://github.com/VossAlan/.github/assets/81576376/824fbc57-d2c2-4d5f-8742-440e306beb9f)
+
+<h3 align="center">
+  <strong>Contact</strong>
+</h3>
+<p align="center">
+  <strong>Location:</strong> McKinney, Texas<br>
+  <strong>Phone:</strong> (469) 300-6291<br>
+  <strong>Email:</strong> hello@vossalan.com
+</p>
+<!--
 <h1 align="center">
 @<strong>Voss Alan | Design & Technology Studio</strong>, we choose to live creatively... :rocket: 
 </h1>
 <p align="center">
 <strong align="center">Final Branding Iteration Coming Soon!</strong>
 </p>
+-->
 <!--
 <p align="center">
   <img align="center" width="500" src="https://user-images.githubusercontent.com/81576376/197360745-e867d30a-f2bb-41cc-9c03-34906121f5bb.jpeg">
