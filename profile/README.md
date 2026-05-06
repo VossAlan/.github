@@ -1,18 +1,8 @@
 <!-- Voss Alan — GitHub Profile README -->
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/VossAlan/vossalan-assets/refs/heads/main/VossAlan_Logo_Final_2.0-01.svg" width="320" alt="Voss Alan" />
+  <img src="https://raw.githubusercontent.com/VossAlan/vossalan-assets/17353039efcc016006a8c09e06e3931928dcbfce/banner/linkedin_banner_jerry_may_2026.png" width="100%" alt="Voss Alan" />
 </div>
-
-<br/>
-
-<div align="center">
-  <strong>Product. Infrastructure. Go-to-Market Execution.</strong>
-</div>
-
-<br/>
-
----
 
 ## Who We Are
 
