@@ -4,9 +4,15 @@
   <img src="https://raw.githubusercontent.com/VossAlan/vossalan-assets/17353039efcc016006a8c09e06e3931928dcbfce/banner/linkedin_banner_jerry_may_2026.png" width="100%" alt="Voss Alan" />
 </div>
 
+<br/>
+
+<div align="center">
+  <strong>We build and scale platforms — product, infrastructure, and go-to-market execution in one integrated team.</strong>
+</div>
+
 ## Who We Are
 
-Voss Alan is a strategic firm that builds and scales platforms — combining technical systems expertise with creative and go-to-market leadership into one integrated team.
+Voss Alan builds and scales platforms — combining technical systems expertise with creative and go-to-market leadership into one integrated team.
 
 We don't just advise. We execute.
 
